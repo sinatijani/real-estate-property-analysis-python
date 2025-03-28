@@ -173,6 +173,8 @@ cython_debug/
 *.sqlite
 *.pbix
 *.pptx
+.*.docx
+*.doc
 
 # Large binary files
 *.pkl
