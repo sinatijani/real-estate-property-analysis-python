@@ -172,6 +172,7 @@ cython_debug/
 *.json
 *.sqlite
 *.pbix
+*.pptx
 
 # Large binary files
 *.pkl
